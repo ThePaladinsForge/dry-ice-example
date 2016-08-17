@@ -1,0 +1,6 @@
+[submodule "dry_ice"]
+	path = dry_ice
+	url = git@github.com:ThePaladinsForge/dry_ice.git
+[submodule "lib"]
+	path = lib
+	url = git@github.com:ThePaladinsForge/lib.git
